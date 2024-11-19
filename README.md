@@ -15,7 +15,7 @@ mvvm, retrofit, flow, coroutines, workManager)
   , [SharedFlow](https://developer.android.com/kotlin/flow/stateflow-and-sharedflow)
   , [coroutines](https://developer.android.com/kotlin/coroutines) for asynchronous operations and UI
   state update via viewmodels.
-* Network Request with [Retrofit]
+* Network Request with [Retrofit](https://square.github.io/retrofit/)
 * WorkManager for Background work
 
 ## Screenshots
