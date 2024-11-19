@@ -21,3 +21,4 @@ mvvm, retrofit, flow, coroutines, workManager)
 ## Screenshots
 
 ![All notes](/docs/images/DailyQuote.jpeg?raw=true)
+![AllQuotes.jpeg](doc%2Fimages%2FAllQuotes.jpeg)
