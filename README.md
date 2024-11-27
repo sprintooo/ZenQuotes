@@ -16,3 +16,8 @@ mvvm, room, navigation compose, flow, coroutines)
 * Data persistence with [Room](https://developer.android.com/jetpack/androidx/releases/room)
   persistence library
 * WorkManager to daily notification updates [WorkManager] (https://developer.android.com/reference/androidx/work/WorkManager)
+
+
+* ![Daily Quotes](https://github.com/user-attachments/assets/40a1e67c-b704-4497-9885-235920a9f5b2)
+* ![All Quotes](https://github.com/user-attachments/assets/ae4ead6e-ff53-407b-98b1-379629abb24f)
+* ![Notifiation Daily](https://github.com/user-attachments/assets/010d58ea-1e68-4738-bedc-c8ce1e389296)
